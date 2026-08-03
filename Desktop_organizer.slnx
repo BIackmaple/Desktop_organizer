@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Desktop_organizer/Desktop_organizer.vcxproj" Id="9332ef76-978a-4747-ac91-ea72a5b36573" />
+</Solution>
